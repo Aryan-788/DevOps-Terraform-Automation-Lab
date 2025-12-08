@@ -1,4 +1,4 @@
-# 🚀 Terraform Automation Lab – High-Velocity Infrastructure as Code
+# 🚀 Terraform Automation Simulation – High-Velocity Infrastructure as Code
 
 Welcome to the **Terraform Automation Lab**, a hands-on repository crafted to demonstrate how DevOps teams can **automate infrastructure creation**, scale resources **from 1 to 100+ in seconds**, and integrate tools like **Docker**, **Nginx**, and **S3** with clean, reusable Terraform HCL modules.
 
